@@ -1,3 +1,11 @@
+"""
+Ejercicio 9
+Se requiere obtener la distancia entre dos puntos en el plano cartesiano.
+Para resolver este problema es necesario conocer las coordenadas de cada punto (X, Y), y con esto
+poder obtener el cateto de abscisas (X 1 y X 2 ) y el de ordenadas (Y 1 e Y 2 ), y mediante estos valores
+obtener la distancia entre P 1 y P 2 , utilizando el teorema de Pitágoras.
+"""
+
 # se utliza libreria para la operacion relacionada a variable 'distancia', que involucra raiz 
 import math
 unidad_medida = input("Ingrese la unidad de medida\n")
