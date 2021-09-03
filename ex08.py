@@ -1,3 +1,12 @@
+"""
+Ejercicio 8
+
+Se requiere obtener el área de la figura en la forma A de la siguiente imagen. Para resolver este problema
+se puede partir de que está formada por tres figuras: dos triángulos rectángulos, con H como hipotenusa
+y R como uno de los catetos, que también es el radio de la otra figura, una semicircunferencia que forma
+la parte circular (ver forma B).
+"""
+
 # se utliza libreria para dar con la operacion relativa al valor de altura, que requiere raiz
 import math
 unidad_medicion = input("Ingrese unidad de medicion\n")
